@@ -1,0 +1,11 @@
+query {
+    breeds {
+        id
+        name
+        temperament
+        origin
+        adaptability
+        intelligence
+        child_friendly
+      }
+}  
