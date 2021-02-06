@@ -9,16 +9,6 @@ npm install
 ```
 npm run serve
 ```
+The backend for this project is located at newgraphql
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ run node index.js from  newgraphql to start the graphql server
