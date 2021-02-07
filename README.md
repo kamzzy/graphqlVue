@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
-The backend for this project is located at newgraphql
+The backend for this project is located at 
+www.github.com/kamzzy/newgraphql
 
  run node index.js from  newgraphql to start the graphql server
